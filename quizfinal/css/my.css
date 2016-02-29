@@ -1,0 +1,33 @@
+div.opcoes{
+	width: 350px;
+	
+	
+}
+button.opcoes{
+	float: right;
+	width:250px;
+	height:70px;
+	font-size: 12px;
+}
+img{
+	width:70px;
+	height:70px;
+	
+}
+img.wrong{
+	width:250px;
+	height:200px;
+	
+}
+table{
+	margin-left:auto;
+	margin-right:auto;
+	vertical-align: middle;
+	
+}
+td{
+	vertical-align: middle;
+}
+tr{
+	vertical-align: middle;
+}
